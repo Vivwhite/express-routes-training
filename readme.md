@@ -1,10 +1,4 @@
-#Training: Express Routing Practice
-
-### Deliverable
-
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
-
-1. Push your updates to GitHub, and add a link to your repo to the "My Work" section of your website!
+# Training: Express Routing Practice
 
 ### Root Route
 
